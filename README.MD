@@ -1,3 +1,6 @@
+# youtube
+https://www.youtube.com/watch?v=U60MdJeov_0
+
 # docker compose up
 
 # docker exec -it  <container_name> sh
